@@ -1,0 +1,1 @@
+import React from "react"import ReactDOM from "react-dom"import { HashRouter as Router } from 'react-router-dom';ReactDOM.render(    <Router>        <div>adfasd</div>    </Router>,    document.getElementById('root'));
